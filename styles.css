@@ -1,0 +1,46 @@
+html, body {
+    height: 100%;
+  }
+
+  body {
+    margin: 0;
+  }
+
+  h1 {
+    font-size: 14px;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+    color: #F3F2F1;
+    letter-spacing: 0.005em;
+    display: table-cell;
+    vertical-align: middle;
+    padding: 13px 0px 0px 20px;
+  }
+
+  #heading {
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    height: 50px;
+    width: 100%;
+    overflow: hidden;
+    position: fixed;
+  }
+
+  #chatwindow {
+    height: 80%;
+    width: 100%;
+    overflow: hidden;
+    position: fixed;
+  }
+
+  #loginButton {
+    height: 100px;
+    width: 100%;
+    position: fixed;
+  }
